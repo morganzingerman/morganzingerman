@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-Hi. I'm Morgan Zingerman, a tech enthusiast based in Copenhagen. Passionate about cryptocurrency, machine programming, and the beauty of nature. I dive into blockchain and refine machine learning algorithms. Exploring Denmark's serene outdoors fuels my inspiration. Studying cutting-edge programming languages while seeking collaboration in fintech or AI projects. Ask me about Python, crypto trends, or hidden trails in Denmark's parks. Tweet me at [@starzingerman], I'll respond within 2-3 hours.
+![Morgan](https://pbs.twimg.com/media/GBounPiXcAAdr6r.png)
+I'm Morgan Zingerman, a tech enthusiast based in Copenhagen. Passionate about cryptocurrency, machine programming, and the beauty of nature. I dive into blockchain and refine machine learning algorithms. Exploring Denmark's serene outdoors fuels my inspiration. Studying cutting-edge programming languages while seeking collaboration in fintech or AI projects. Ask me about Python, crypto trends, or hidden trails in Denmark's parks. Tweet me at [@starzingerman](https://twitter.com/starzingerman), I'll respond within 2-3 hours.
 
 - 🔭 Currently working on: Exploring blockchain applications and refining machine learning algorithms.
 - 🌱 Currently learning: Advanced smart contract development and enhancing data analysis techniques.
